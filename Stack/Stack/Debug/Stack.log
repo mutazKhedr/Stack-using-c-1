@@ -1,0 +1,4 @@
+﻿  Stack.cpp
+C:\Users\Mass\Desktop\Stack\Stack\Stack.cpp(26): warning C4715: 'pop': not all control paths return a value
+C:\Users\Mass\Desktop\Stack\Stack\Stack.cpp(35): warning C4715: 'peek': not all control paths return a value
+  Stack.vcxproj -> C:\Users\Mass\Desktop\Stack\Stack\Debug\Stack.exe
